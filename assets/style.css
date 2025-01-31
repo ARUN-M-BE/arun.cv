@@ -17,7 +17,7 @@ body {
 /* Header */
 
 header {
-    background-color: blue;
+    background-color:#007bff;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -37,7 +37,7 @@ header {
   header h2 {
     font-size: 1.5rem;
     margin: 10px 0;
-    color: #000;
+    color: #fff;
   }
   
   header p {
@@ -47,11 +47,11 @@ header {
   }
   
   header p strong {
-    color: #000;
+    color: #fff;
   }
   
   header p a {
-    color: #fff;
+    color: #ffd700;
     text-decoration: none;
   }
   
